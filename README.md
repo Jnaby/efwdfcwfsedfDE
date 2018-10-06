@@ -1,2 +1,1 @@
-# efwdfcwfsedfDE
-omaara.ms
+worker: node bot.js
